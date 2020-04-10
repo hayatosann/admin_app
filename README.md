@@ -1,4 +1,6 @@
 # DB設計
+[ER図](https://imgur.com/L07JUfj)
+
 ## admin_usersテーブル
 
 |Column|Type|Options|
