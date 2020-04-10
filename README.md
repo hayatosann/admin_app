@@ -14,10 +14,10 @@
 
 |Column|Type|Options|
 |------|----|-------|
-|name|string||
-|address|string||
-|birthday|string||
-|password|string||
+|name|string|null: false|
+|address|string|null: false|
+|birthday|string|null: false|
+|password|string|null: false|
 
 ### Association
 - has_many :stay_infos
