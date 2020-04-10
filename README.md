@@ -10,9 +10,6 @@
 |password|string||
 |password_confirmation|string||
 
-### Association
-- 
-
 ## studentsテーブル
 
 |Column|Type|Options|
